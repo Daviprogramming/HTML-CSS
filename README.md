@@ -16,3 +16,5 @@ Documentar minha evolução e organizar referências práticas de como deixar p�
 ---
 
 ✨ _Foco em aprender e compartilhar conhecimento!_
+
+- Desenvolvido: Davi Vinícius
